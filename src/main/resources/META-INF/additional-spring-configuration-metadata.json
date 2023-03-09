@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "management.security.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.security.enabled'"
+  },
+  {
+    "name": "management.endpoints.web.exposure.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.exposure.include'"
+  },
+  {
+    "name": "management.endpoints.web.base-path",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoints.web.base-path'"
+  },
+  {
+    "name": "management.endpoint.health.group.custom.include",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.health.group.custom.include'"
+  },
+  {
+    "name": "management.endpoint.health.group.custom.show-components",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.health.group.custom.show-components'"
+  },
+  {
+    "name": "management.endpoint.health.group.custom.show-details",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.health.group.custom.show-details'"
+  },
+  {
+    "name": "management.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'management.server.port'"
+  },
+  {
+    "name": "some.error",
+    "type": "java.lang.String",
+    "description": "A description for 'some.error'"
+  }
+]}
